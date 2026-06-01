@@ -1,4 +1,4 @@
-<img width="1204" height="694" alt="Scute Final" src="https://github.com/user-attachments/assets/a6160951-3c3b-4565-b2d1-bfa4fd7154ee" />
+<img width="1204" height="694" alt="image psd" src="https://github.com/user-attachments/assets/44fb3425-9fb6-4c15-85fa-187dbb0f5826" />
 
 
 # 🛴 Scute — Plataforma de Micromobilidade Inteligente
